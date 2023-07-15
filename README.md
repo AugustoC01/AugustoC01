@@ -48,12 +48,6 @@ How to write a Good readme
   <img src="https://skillicons.dev/icons?i=react,nodejs,js,mongodb,firebase,linux,git" alt="Already Learned skills logos">
 </div>
 
-<br>
-<h2 align="center">Most used languages</h2>
-<p align="center">
-  <img src="https://github-readme-stats-i66v.vercel.app/api/top-langs/?username=AugustoC01&layout=compact&langs_count=4&hide_border=true&theme=dracula" alt="Most used languages"/> <br>
-</p>
-
 <!-- <img  src="assets/border-line.gif" alt="border-line" height="4" width="1000"> -->
 
 <h2 align="center">Contact</h2>
