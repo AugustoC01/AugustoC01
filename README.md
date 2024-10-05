@@ -28,13 +28,13 @@ How to write a Good readme
  
  * 🌱 Currently learning Typescript and Full Stack Development (MERN). <br><br>
 
- * 🌊 2023 Goals: 
+ * 🌊 2024 Goals: 
     - Develop more projects
     - Contribute to Open Source projects <br><br>
 
  * :octocat: Interest: Typescript, Game Dev and Coffee. <br><br>
 
- * ☕ Hobbies: Anime, Reddit.
+ * ☕ Hobbies: Anime, Reddit, Videogames.
  
 <h2></h2><br>
 <p align="center">
@@ -43,9 +43,9 @@ How to write a Good readme
 
 <div align="center">
   <h2> Actively Learning </h2>
-  <img src="https://skillicons.dev/icons?i=ts" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=ts,java" alt="skills actively learning logos"> <br> 
   <h2> Already Learned </h2>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,mongodb,firebase,linux,git" alt="Already Learned skills logos">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,mongodb,firebase,linux,git,c" alt="Already Learned skills logos">
 </div>
 
 <!-- <img  src="assets/border-line.gif" alt="border-line" height="4" width="1000"> -->
