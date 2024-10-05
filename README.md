@@ -20,9 +20,9 @@ How to write a Good readme
 </p> <br> 
 -->
 
-<a href="https://app.daily.dev/AugustoC01"><img src="https://api.daily.dev/devcards/10d2012e66284930946e60b90772012b.png?r=3ge" align='right' width="350" alt="Augusto Cannata Fernandez's Dev Card"/></a>
-
 <h2 align="center"> Self-taught and passionate about coding!</h2><br>
+
+<a href="https://app.daily.dev/AugustoC01"><img src="https://api.daily.dev/devcards/10d2012e66284930946e60b90772012b.png?r=3ge" align='right' width="350" alt="Augusto Cannata Fernandez's Dev Card"/></a>
 
  * 🔭 I'm a self-taught developer and computer engineering student. <br><br>
  
@@ -36,6 +36,7 @@ How to write a Good readme
 
  * ☕ Hobbies: Anime, Reddit, Videogames.
  
+<br><br><br><br>
 <h2></h2><br>
 <p align="center">
 <img src="https://media1.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=ecf05e47sx6j4zh63v2u7iqqxqqiwacnebx3inm408uitt86&rid=giphy.gif&ct=g" width="300">
