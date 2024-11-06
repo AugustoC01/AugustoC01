@@ -22,7 +22,7 @@ How to write a Good readme
 
 <h2 align="center"> Self-taught and passionate about coding!</h2><br>
 
-<a href="https://app.daily.dev/AugustoC01"><img src="https://api.daily.dev/devcards/10d2012e66284930946e60b90772012b.png?r=3ge" align='right' width="350" alt="Augusto Cannata Fernandez's Dev Card"/></a>
+<a href="https://app.daily.dev/augustoc01"><img src="https://api.daily.dev/devcards/v2/lDmUTJqWq4zRfZsvaYIqu.png?type=default&r=p51" align='right' width="350" alt="Augusto's Dev Card"/></a>
 
  * 🔭 I'm a self-taught developer and computer engineering student. <br><br>
  
