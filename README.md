@@ -26,7 +26,7 @@ My approach prioritizes maintainability, infrastructure ownership, and real-worl
 
 ## Highlighted Work
 
-### Facturación System (Production Demo)
+### Billing System (Production Demo)
 
 - Backend system built for real commercial use
 - Modular architecture (routes → controllers → services)
