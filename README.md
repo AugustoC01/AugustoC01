@@ -41,5 +41,5 @@ https://facturacion.augustoc.dev
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/your-link  
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/augusto-cannata-fernandez/
+- Email: augustocdeveloper@gmail.com
